@@ -4,6 +4,7 @@
 - 💞️ I’m looking to create more content
 - 📫 How to reach me @KoushikKruz
 
+![](https://github.com/KruzerKnight/KruzerKnight/blob/main/luffy-monkey-d-luffy.gif)
 
 
 <!---
