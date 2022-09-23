@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Getting New Inputs
 - 🌱 I’m currently learning ECE
 - 💞️ I’m looking to create more content
-- 📫 How to reach me @KoushikKruz
+- 📫 How to reach me <a href='https://www.linkedin.com/in/koushiksg/'>Kruzer</a>
 
 ![](https://github.com/KruzerKnight/KruzerKnight/blob/main/luffy-monkey-d-luffy.gif)
 
