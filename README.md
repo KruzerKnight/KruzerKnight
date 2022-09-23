@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ECE
 - 💞️ I’m looking to create more content
 - 📫 How to reach me <a href='https://www.linkedin.com/in/koushiksg/'>Kruzer</a>
-- ⌨ <a href='https://www.codechef.com/users/kruzerknight'>CodeChef</a> <a href='https://leetcode.com/kruzerknight/'>LeetCode</a> <a href='https://codeforces.com/profile/kruzerknight'>Codeforces</a>
+- ⌨ <a href='https://www.codechef.com/users/kruzerknight'>CodeChef</a> --- <a href='https://leetcode.com/kruzerknight/'>LeetCode</a> --- <a href='https://codeforces.com/profile/kruzerknight'>Codeforces</a>
+
 
 ![](https://github.com/KruzerKnight/KruzerKnight/blob/main/luffy-monkey-d-luffy.gif)
 
